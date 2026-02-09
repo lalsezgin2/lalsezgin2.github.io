@@ -6,14 +6,14 @@ layout: default
 # Lal Sezgin
 
 🎓 Junior at Denison University  
-📊 Data Analytics & Economics  
+📊 Data Analytics & Economics Double Major 
 
 Interested in applied modeling, data visualization, and data-driven decision-making.
 
 ---
 
 ## 📊 Tableau Dashboards
-- [Landon Hotel – Product Analysis](https://public.tableau.com/profile/YOUR_TABLEAU_USERNAME)
+- [Landon Hotel – Product Analysis](https://public.tableau.com/app/profile/lal.sezgin/vizzes)
 
 ---
 
@@ -28,5 +28,5 @@ Interested in applied modeling, data visualization, and data-driven decision-mak
 
 ## 🔗 Links
 - [GitHub](https://github.com/lalsezgin2)
-- [Tableau Public](https://public.tableau.com/profile/YOUR_TABLEAU_USERNAME)
-- [LinkedIn](https://linkedin.com/in/YOUR_LINK)
+- [Tableau Public](https://public.tableau.com/app/profile/lal.sezgin/vizzes)
+- [LinkedIn](https://www.linkedin.com/in/lal-sezgin-217495334/)
